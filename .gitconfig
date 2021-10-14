@@ -1,0 +1,5 @@
+[core]
+	editor = \"C:\\Users\\Marvin\\AppData\\Local\\Programs\\Microsoft VS Code Insiders\\bin\\code-insiders.cmd\" --wait
+[user]
+	email = marvinwiemers@gmail.com
+	name = Marvin Wiemers
