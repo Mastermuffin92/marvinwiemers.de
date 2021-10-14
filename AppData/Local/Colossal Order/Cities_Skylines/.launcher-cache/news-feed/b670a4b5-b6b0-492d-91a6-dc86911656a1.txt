@@ -1,0 +1,210 @@
+{
+  "feedVersion": "2.1",
+  "context": "cities_v2-steam",
+  "slotTypes": [
+    {
+      "slotType": "main",
+      "mixedContent": [
+        {
+          "id": "9251a25a-0687-4ff3-906f-f524d4bf0cc3",
+          "contentType": "image",
+          "settings": {
+            "weight": 1,
+            "visible": {
+              "from": "2020-08-20T21:00:00Z",
+              "until": "2021-05-14T17:00:00Z"
+            }
+          },
+          "content": {
+            "title": {
+              "en": ""
+            },
+            "image": {
+              "src": "https://appboy-images.com/appboy/communication/assets/image_assets/images/5f3fbf298919ac109d6241ef/original.png?1598013225",
+              "opacity": 100
+            },
+            "link": {
+              "href": "https://store.steampowered.com/bundle/15456/Cities_Skylines__City_Startup_Bundle/?utm_source=launcherv2&utm_medium=launcher&utm_content=post&utm_campaign=cisk_cspc_20200821_cisa"
+            }
+          }
+        },
+        {
+          "id": "8dccc2e2-5042-4b41-ae5a-13880452d26e",
+          "contentType": "image",
+          "settings": {
+            "weight": 1000,
+            "visible": {
+              "from": "2020-12-14T14:00:00Z",
+              "until": "2020-12-15T14:00:00Z"
+            }
+          },
+          "content": {
+            "title": {
+              "en": ""
+            },
+            "image": {
+              "src": "https://appboy-images.com/appboy/communication/assets/image_assets/images/5fd8ca15ea3ea76c351e837e/original.jpg?1608043029",
+              "opacity": 100
+            },
+            "link": {
+              "href": "https://www.youtube.com/channel/UCV9RoEcgAO1Uc7oxZGS8Lkw/featured"
+            }
+          }
+        },
+        {
+          "id": "bb09bbda-fd04-4f72-b467-e559317dfec5",
+          "contentType": "image",
+          "settings": {
+            "weight": 1000,
+            "visible": {
+              "from": "2020-12-15T14:00:00Z",
+              "until": "2020-12-15T15:00:00Z"
+            }
+          },
+          "content": {
+            "title": {
+              "en": ""
+            },
+            "image": {
+              "src": "https://appboy-images.com/appboy/communication/assets/image_assets/images/5f68a9958919ac466f845f03/original.jpg",
+              "opacity": 100
+            },
+            "link": {
+              "href": "https://www.youtube.com/channel/UCV9RoEcgAO1Uc7oxZGS8Lkw/featured"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "slotType": "secondary",
+      "contentGroups": [],
+      "mixedContent": [
+        {
+          "id": "23897582-aa0f-41d8-8426-3f9fd45a7bb2",
+          "contentType": "image+button",
+          "settings": {
+            "weight": 1,
+            "targetSlot": "secondary-1",
+            "visible": {
+              "from": "2020-08-20T08:36:00Z",
+              "until": "2030-03-29T15:10:00Z"
+            }
+          },
+          "content": {
+            "title": {
+              "en": ""
+            },
+            "text": {
+              "en": ""
+            },
+            "buttonText": {
+              "en": ""
+            },
+            "image": {
+              "src": "https://appboy-images.com/appboy/communication/assets/image_assets/images/5f3fbf2aea3ea7390c88c8ea/original.png"
+            },
+            "link": {
+              "href": "https://www.citiesskylines.com/expansions/sunset-harbor?utm_source=launcher-cspc&utm_medium=launcherv2&utm_content=sec1&utm_campaign=suha_cspc_20200821_brpr"
+            }
+          }
+        },
+        {
+          "id": "192764dc-b3e9-470c-b7b6-6aac660e89dd",
+          "contentType": "image+button",
+          "settings": {
+            "weight": 1000,
+            "targetSlot": "secondary-1",
+            "visible": {
+              "from": "2020-11-25T17:00:00Z",
+              "until": "2020-12-01T17:00:00Z"
+            }
+          },
+          "content": {
+            "title": {
+              "en": ""
+            },
+            "text": {
+              "en": ""
+            },
+            "buttonText": {
+              "en": ""
+            },
+            "image": {
+              "src": "https://appboy-images.com/appboy/communication/assets/image_assets/images/5fbe9a6f8919ac6e1d90f5a2/original.jpg?1606326895"
+            },
+            "link": {
+              "href": "https://store.steampowered.com/app/255710/Cities_Skylines/"
+            }
+          }
+        },
+        {
+          "id": "287b1321-7465-4c04-9c4b-1d76f2f44e06",
+          "contentType": "image+button",
+          "settings": {
+            "weight": 1,
+            "targetSlot": "secondary-2",
+            "visible": {
+              "from": "2020-12-01T17:00:00Z",
+              "until": "2029-10-22T15:00:00Z"
+            }
+          },
+          "content": {
+            "title": {
+              "en": ""
+            },
+            "text": {
+              "en": ""
+            },
+            "buttonText": {
+              "en": ""
+            },
+            "image": {
+              "src": "https://appboy-images.com/appboy/communication/assets/image_assets/images/5fc642c44b91ad0ea6eb045e/original.gif?1606828740"
+            },
+            "link": {
+              "href": "https://store.steampowered.com/app/604540/Empire_of_Sin/?utm_source=launcher-cspc&utm_medium=launcherv2&utm_content=sec2&utm_campaign=emsi_emsi_20201201_rel"
+            }
+          }
+        },
+        {
+          "id": "c88ff4bc-4d11-47e4-a181-311a59afebbc",
+          "contentType": "image+button",
+          "settings": {
+            "weight": 1000,
+            "targetSlot": "secondary-2",
+            "visible": {
+              "from": "2020-10-09T14:00:00Z",
+              "until": "2020-10-10T17:00:00Z"
+            }
+          },
+          "content": {
+            "title": {
+              "en": ""
+            },
+            "text": {
+              "en": ""
+            },
+            "buttonText": {
+              "en": ""
+            },
+            "image": {
+              "src": "https://appboy-images.com/appboy/communication/assets/image_assets/images/5fa279a74b91ad22b313b8ce/original.jpg"
+            },
+            "link": {
+              "href": "https://store.steampowered.com/app/255710/Cities_Skylines/"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "slotType": "expand",
+      "mixedContent": []
+    },
+    {
+      "slotType": "expand_wide",
+      "mixedContent": []
+    }
+  ]
+}
