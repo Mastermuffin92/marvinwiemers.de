@@ -120,7 +120,9 @@
    "LargePayload.ExtendedTimeoutSecs" : 180,
    "LargePayload.ThresholdBytes" : 65536,
    "LatestCdpUsedTime" : "0000-00-00T00:00:00.000",
-   "LatestFixAccountToastTime" : {},
+   "LatestFixAccountToastTime" : {
+      "00037FFEC74DBADD" : "2021-11-02T19:39:22.978"
+   },
    "LowestRssiAllowedForBleDiscovery" : -75,
    "MaximumConcurrentBluetoothSends" : 5,
    "MaximumSocketBuffers" : 32,

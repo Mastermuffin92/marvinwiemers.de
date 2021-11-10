@@ -3,3 +3,5 @@
 [user]
 	email = marvinwiemers@gmail.com
 	name = Marvin Wiemers
+[alias]
+	root = 'rev-parse
